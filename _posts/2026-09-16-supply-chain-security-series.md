@@ -15,7 +15,7 @@ Software works the same way. The code you ship is assembled from other people's 
 
 This series walks that chain end to end — from a developer's commit to a running workload — and shows the controls that make each link verifiable.
 
-> **This is the series index (Post 0).** It's a map, not a tutorial. If you're new to the topic, start with [What is software supply chain security?](https://anis-verse.github.io/notes/#TODO-post-1). If you already know the landscape, jump straight to the reading path that matches your job below.
+> **This is the series index (Post 0).** It's a map, not a tutorial. If you're new to the topic, start with [What is software supply chain security?]({% post_url 2026-09-16-what-is-software-supply-chain-security %}). If you already know the landscape, jump straight to the reading path that matches your job below.
 >
 > Last reviewed: 2026-09-16.
 {: .prompt-info }
@@ -53,7 +53,7 @@ Status is **published** or **coming soon**. Titles link to the post once it's li
 | # | Post | In one line | Status |
 |---|------|-------------|--------|
 | 0 | Series Guide (this page) | Map, reading paths, and how it stays current | Published |
-| 1 | [What is software supply chain security?](https://anis-verse.github.io/notes/#TODO-post-1) | The mental model and the threat landscape | Coming soon |
+| 1 | [What is software supply chain security?]({% post_url 2026-09-16-what-is-software-supply-chain-security %}) | The mental model and the threat landscape | Published |
 | 2 | [The standards landscape](https://anis-verse.github.io/notes/#TODO-post-2) | SSDF, SLSA, SBOM guidance and the CRA, with current versions | Coming soon |
 | 3 | [What code signing really is](https://anis-verse.github.io/notes/#TODO-post-3) | Hashing, keys, signatures vs attestations | Coming soon |
 | 4 | [Sigstore explained](https://anis-verse.github.io/notes/#TODO-post-4) | Keyless signing, transparency logs, trust roots | Coming soon |
