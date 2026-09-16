@@ -31,9 +31,16 @@ This repository is automatically updated with new releases from the theme reposi
 
 ## License
 
-This work is published under [MIT][mit] License.
+This repository contains two kinds of material under two separate licenses:
+
+- **Code** — the [Chirpy][chirpy] theme scaffolding, configuration, plugins, and the
+  `assets/img/avatar.svg` graphic — is licensed under the [MIT][mit] License
+  (see [`LICENSE`](LICENSE)).
+- **Content** — the writing in `_posts/` and `_tabs/` — is licensed under
+  [Creative Commons Attribution 4.0 International (CC BY 4.0)][cc-by].
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
